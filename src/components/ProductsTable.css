@@ -1,0 +1,43 @@
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  font-size: 18px;
+  padding: 15px 20px;
+  border-radius: 3px;
+}
+
+th {
+  background-color: #d6c422;
+}
+
+tr {
+  background-color: #fff;
+}
+
+.btn-remove {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #fac7c7;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.btn-remove:hover {
+  background-color: #f08888;
+}
+
+.btn-edit {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #c7eefa;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.btn-edit:hover {
+  background-color: #85d9f3;
+}
